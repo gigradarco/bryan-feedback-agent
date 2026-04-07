@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/appshell.tsx","./src/api.ts","./src/main.tsx","./src/rewards.ts","./src/vite-env.d.ts","./src/pages/chat.tsx","./src/pages/home.tsx","./src/pages/landing.tsx","./src/pages/organizer.tsx","./src/pages/report.tsx","./src/pages/rewards.tsx"],"version":"5.6.3"}
